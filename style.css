@@ -12,7 +12,6 @@ body{
   background-attachment: fixed;
 }
 .container{
-  /* max-width: 1440; */
   margin: 100px ;
   display: flex;
   justify-content: center;
